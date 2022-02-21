@@ -38,5 +38,6 @@ elif selection == "3":
 elif selection == "4":
     divide_result = c1.divide()
     print("Divide: {}".format(divide_result))
+    
 else:
     print("Error!")        
